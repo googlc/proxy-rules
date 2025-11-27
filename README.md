@@ -1,0 +1,2 @@
+# proxy-rules
+Clash / Quantumult 
