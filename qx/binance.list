@@ -1,10 +1,3 @@
-ip-cidr, 47.107.98.27/32
-ip-cidr, 47.107.127.135/32
-ip-cidr, 52.68.117.1/32
-ip-cidr, 35.77.148.188/32
-ip-cidr, 54.150.106.1/32
-ip-cidr, 13.248.135.87/32
-ip-cidr, 47.107.32.31/32
 host-suffix, amazontrust.ac
 host-suffix, amazontrust.academy
 host-suffix, amazontrust.ai
@@ -46,6 +39,7 @@ host-suffix, amazontrust.nl
 host-suffix, amazontrust.online
 host-suffix, amazontrust.org
 host-suffix, amazontrust.pro
+host-suffix, amazontrust.red
 host-suffix, amazontrust.ru
 host-suffix, amazontrust.sh
 host-suffix, amazontrust.shop
@@ -105,6 +99,7 @@ host-suffix, appsflayer.nl
 host-suffix, appsflayer.online
 host-suffix, appsflayer.org
 host-suffix, appsflayer.pro
+host-suffix, appsflayer.red
 host-suffix, appsflayer.ru
 host-suffix, appsflayer.sh
 host-suffix, appsflayer.shop
@@ -164,6 +159,7 @@ host-suffix, binance.nl
 host-suffix, binance.online
 host-suffix, binance.org
 host-suffix, binance.pro
+host-suffix, binance.red
 host-suffix, binance.ru
 host-suffix, binance.sh
 host-suffix, binance.shop
@@ -223,6 +219,7 @@ host-suffix, binancecnt.nl
 host-suffix, binancecnt.online
 host-suffix, binancecnt.org
 host-suffix, binancecnt.pro
+host-suffix, binancecnt.red
 host-suffix, binancecnt.ru
 host-suffix, binancecnt.sh
 host-suffix, binancecnt.shop
@@ -282,6 +279,7 @@ host-suffix, binancefuture.nl
 host-suffix, binancefuture.online
 host-suffix, binancefuture.org
 host-suffix, binancefuture.pro
+host-suffix, binancefuture.red
 host-suffix, binancefuture.ru
 host-suffix, binancefuture.sh
 host-suffix, binancefuture.shop
@@ -341,6 +339,7 @@ host-suffix, binancezh.nl
 host-suffix, binancezh.online
 host-suffix, binancezh.org
 host-suffix, binancezh.pro
+host-suffix, binancezh.red
 host-suffix, binancezh.ru
 host-suffix, binancezh.sh
 host-suffix, binancezh.shop
@@ -400,6 +399,7 @@ host-suffix, bmwweb.nl
 host-suffix, bmwweb.online
 host-suffix, bmwweb.org
 host-suffix, bmwweb.pro
+host-suffix, bmwweb.red
 host-suffix, bmwweb.ru
 host-suffix, bmwweb.sh
 host-suffix, bmwweb.shop
@@ -459,6 +459,7 @@ host-suffix, bnappweb.nl
 host-suffix, bnappweb.online
 host-suffix, bnappweb.org
 host-suffix, bnappweb.pro
+host-suffix, bnappweb.red
 host-suffix, bnappweb.ru
 host-suffix, bnappweb.sh
 host-suffix, bnappweb.shop
@@ -518,6 +519,7 @@ host-suffix, bnappzh.nl
 host-suffix, bnappzh.online
 host-suffix, bnappzh.org
 host-suffix, bnappzh.pro
+host-suffix, bnappzh.red
 host-suffix, bnappzh.ru
 host-suffix, bnappzh.sh
 host-suffix, bnappzh.shop
@@ -577,6 +579,7 @@ host-suffix, bnbstatic.nl
 host-suffix, bnbstatic.online
 host-suffix, bnbstatic.org
 host-suffix, bnbstatic.pro
+host-suffix, bnbstatic.red
 host-suffix, bnbstatic.ru
 host-suffix, bnbstatic.sh
 host-suffix, bnbstatic.shop
@@ -636,6 +639,7 @@ host-suffix, bnbzh.nl
 host-suffix, bnbzh.online
 host-suffix, bnbzh.org
 host-suffix, bnbzh.pro
+host-suffix, bnbzh.red
 host-suffix, bnbzh.ru
 host-suffix, bnbzh.sh
 host-suffix, bnbzh.shop
@@ -695,6 +699,7 @@ host-suffix, bntrace.nl
 host-suffix, bntrace.online
 host-suffix, bntrace.org
 host-suffix, bntrace.pro
+host-suffix, bntrace.red
 host-suffix, bntrace.ru
 host-suffix, bntrace.sh
 host-suffix, bntrace.shop
@@ -754,6 +759,7 @@ host-suffix, cloudfront.nl
 host-suffix, cloudfront.online
 host-suffix, cloudfront.org
 host-suffix, cloudfront.pro
+host-suffix, cloudfront.red
 host-suffix, cloudfront.ru
 host-suffix, cloudfront.sh
 host-suffix, cloudfront.shop
@@ -813,6 +819,7 @@ host-suffix, marketwebb.nl
 host-suffix, marketwebb.online
 host-suffix, marketwebb.org
 host-suffix, marketwebb.pro
+host-suffix, marketwebb.red
 host-suffix, marketwebb.ru
 host-suffix, marketwebb.sh
 host-suffix, marketwebb.shop
@@ -872,6 +879,7 @@ host-suffix, maxweb.nl
 host-suffix, maxweb.online
 host-suffix, maxweb.org
 host-suffix, maxweb.pro
+host-suffix, maxweb.red
 host-suffix, maxweb.ru
 host-suffix, maxweb.sh
 host-suffix, maxweb.shop
@@ -931,6 +939,7 @@ host-suffix, myqcloud.nl
 host-suffix, myqcloud.online
 host-suffix, myqcloud.org
 host-suffix, myqcloud.pro
+host-suffix, myqcloud.red
 host-suffix, myqcloud.ru
 host-suffix, myqcloud.sh
 host-suffix, myqcloud.shop
@@ -990,6 +999,7 @@ host-suffix, saasexch.nl
 host-suffix, saasexch.online
 host-suffix, saasexch.org
 host-suffix, saasexch.pro
+host-suffix, saasexch.red
 host-suffix, saasexch.ru
 host-suffix, saasexch.sh
 host-suffix, saasexch.shop
@@ -1049,6 +1059,7 @@ host-suffix, yingwangtech.nl
 host-suffix, yingwangtech.online
 host-suffix, yingwangtech.org
 host-suffix, yingwangtech.pro
+host-suffix, yingwangtech.red
 host-suffix, yingwangtech.ru
 host-suffix, yingwangtech.sh
 host-suffix, yingwangtech.shop

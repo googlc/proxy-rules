@@ -6,6 +6,7 @@ payload:
   - IP-CIDR,54.150.106.1/32
   - IP-CIDR,13.248.135.87/32
   - IP-CIDR,47.107.32.31/32
+
   - DOMAIN-SUFFIX,amazontrust.ac
   - DOMAIN-SUFFIX,amazontrust.academy
   - DOMAIN-SUFFIX,amazontrust.ai
@@ -47,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,amazontrust.online
   - DOMAIN-SUFFIX,amazontrust.org
   - DOMAIN-SUFFIX,amazontrust.pro
+  - DOMAIN-SUFFIX,amazontrust.red
   - DOMAIN-SUFFIX,amazontrust.ru
   - DOMAIN-SUFFIX,amazontrust.sh
   - DOMAIN-SUFFIX,amazontrust.shop
@@ -106,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,appsflayer.online
   - DOMAIN-SUFFIX,appsflayer.org
   - DOMAIN-SUFFIX,appsflayer.pro
+  - DOMAIN-SUFFIX,appsflayer.red
   - DOMAIN-SUFFIX,appsflayer.ru
   - DOMAIN-SUFFIX,appsflayer.sh
   - DOMAIN-SUFFIX,appsflayer.shop
@@ -165,6 +168,7 @@ payload:
   - DOMAIN-SUFFIX,binance.online
   - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.pro
+  - DOMAIN-SUFFIX,binance.red
   - DOMAIN-SUFFIX,binance.ru
   - DOMAIN-SUFFIX,binance.sh
   - DOMAIN-SUFFIX,binance.shop
@@ -224,6 +228,7 @@ payload:
   - DOMAIN-SUFFIX,binancecnt.online
   - DOMAIN-SUFFIX,binancecnt.org
   - DOMAIN-SUFFIX,binancecnt.pro
+  - DOMAIN-SUFFIX,binancecnt.red
   - DOMAIN-SUFFIX,binancecnt.ru
   - DOMAIN-SUFFIX,binancecnt.sh
   - DOMAIN-SUFFIX,binancecnt.shop
@@ -283,6 +288,7 @@ payload:
   - DOMAIN-SUFFIX,binancefuture.online
   - DOMAIN-SUFFIX,binancefuture.org
   - DOMAIN-SUFFIX,binancefuture.pro
+  - DOMAIN-SUFFIX,binancefuture.red
   - DOMAIN-SUFFIX,binancefuture.ru
   - DOMAIN-SUFFIX,binancefuture.sh
   - DOMAIN-SUFFIX,binancefuture.shop
@@ -342,6 +348,7 @@ payload:
   - DOMAIN-SUFFIX,binancezh.online
   - DOMAIN-SUFFIX,binancezh.org
   - DOMAIN-SUFFIX,binancezh.pro
+  - DOMAIN-SUFFIX,binancezh.red
   - DOMAIN-SUFFIX,binancezh.ru
   - DOMAIN-SUFFIX,binancezh.sh
   - DOMAIN-SUFFIX,binancezh.shop
@@ -401,6 +408,7 @@ payload:
   - DOMAIN-SUFFIX,bmwweb.online
   - DOMAIN-SUFFIX,bmwweb.org
   - DOMAIN-SUFFIX,bmwweb.pro
+  - DOMAIN-SUFFIX,bmwweb.red
   - DOMAIN-SUFFIX,bmwweb.ru
   - DOMAIN-SUFFIX,bmwweb.sh
   - DOMAIN-SUFFIX,bmwweb.shop
@@ -460,6 +468,7 @@ payload:
   - DOMAIN-SUFFIX,bnappweb.online
   - DOMAIN-SUFFIX,bnappweb.org
   - DOMAIN-SUFFIX,bnappweb.pro
+  - DOMAIN-SUFFIX,bnappweb.red
   - DOMAIN-SUFFIX,bnappweb.ru
   - DOMAIN-SUFFIX,bnappweb.sh
   - DOMAIN-SUFFIX,bnappweb.shop
@@ -519,6 +528,7 @@ payload:
   - DOMAIN-SUFFIX,bnappzh.online
   - DOMAIN-SUFFIX,bnappzh.org
   - DOMAIN-SUFFIX,bnappzh.pro
+  - DOMAIN-SUFFIX,bnappzh.red
   - DOMAIN-SUFFIX,bnappzh.ru
   - DOMAIN-SUFFIX,bnappzh.sh
   - DOMAIN-SUFFIX,bnappzh.shop
@@ -578,6 +588,7 @@ payload:
   - DOMAIN-SUFFIX,bnbstatic.online
   - DOMAIN-SUFFIX,bnbstatic.org
   - DOMAIN-SUFFIX,bnbstatic.pro
+  - DOMAIN-SUFFIX,bnbstatic.red
   - DOMAIN-SUFFIX,bnbstatic.ru
   - DOMAIN-SUFFIX,bnbstatic.sh
   - DOMAIN-SUFFIX,bnbstatic.shop
@@ -637,6 +648,7 @@ payload:
   - DOMAIN-SUFFIX,bnbzh.online
   - DOMAIN-SUFFIX,bnbzh.org
   - DOMAIN-SUFFIX,bnbzh.pro
+  - DOMAIN-SUFFIX,bnbzh.red
   - DOMAIN-SUFFIX,bnbzh.ru
   - DOMAIN-SUFFIX,bnbzh.sh
   - DOMAIN-SUFFIX,bnbzh.shop
@@ -696,6 +708,7 @@ payload:
   - DOMAIN-SUFFIX,bntrace.online
   - DOMAIN-SUFFIX,bntrace.org
   - DOMAIN-SUFFIX,bntrace.pro
+  - DOMAIN-SUFFIX,bntrace.red
   - DOMAIN-SUFFIX,bntrace.ru
   - DOMAIN-SUFFIX,bntrace.sh
   - DOMAIN-SUFFIX,bntrace.shop
@@ -755,6 +768,7 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.online
   - DOMAIN-SUFFIX,cloudfront.org
   - DOMAIN-SUFFIX,cloudfront.pro
+  - DOMAIN-SUFFIX,cloudfront.red
   - DOMAIN-SUFFIX,cloudfront.ru
   - DOMAIN-SUFFIX,cloudfront.sh
   - DOMAIN-SUFFIX,cloudfront.shop
@@ -814,6 +828,7 @@ payload:
   - DOMAIN-SUFFIX,marketwebb.online
   - DOMAIN-SUFFIX,marketwebb.org
   - DOMAIN-SUFFIX,marketwebb.pro
+  - DOMAIN-SUFFIX,marketwebb.red
   - DOMAIN-SUFFIX,marketwebb.ru
   - DOMAIN-SUFFIX,marketwebb.sh
   - DOMAIN-SUFFIX,marketwebb.shop
@@ -873,6 +888,7 @@ payload:
   - DOMAIN-SUFFIX,maxweb.online
   - DOMAIN-SUFFIX,maxweb.org
   - DOMAIN-SUFFIX,maxweb.pro
+  - DOMAIN-SUFFIX,maxweb.red
   - DOMAIN-SUFFIX,maxweb.ru
   - DOMAIN-SUFFIX,maxweb.sh
   - DOMAIN-SUFFIX,maxweb.shop
@@ -932,6 +948,7 @@ payload:
   - DOMAIN-SUFFIX,myqcloud.online
   - DOMAIN-SUFFIX,myqcloud.org
   - DOMAIN-SUFFIX,myqcloud.pro
+  - DOMAIN-SUFFIX,myqcloud.red
   - DOMAIN-SUFFIX,myqcloud.ru
   - DOMAIN-SUFFIX,myqcloud.sh
   - DOMAIN-SUFFIX,myqcloud.shop
@@ -991,6 +1008,7 @@ payload:
   - DOMAIN-SUFFIX,saasexch.online
   - DOMAIN-SUFFIX,saasexch.org
   - DOMAIN-SUFFIX,saasexch.pro
+  - DOMAIN-SUFFIX,saasexch.red
   - DOMAIN-SUFFIX,saasexch.ru
   - DOMAIN-SUFFIX,saasexch.sh
   - DOMAIN-SUFFIX,saasexch.shop
@@ -1050,6 +1068,7 @@ payload:
   - DOMAIN-SUFFIX,yingwangtech.online
   - DOMAIN-SUFFIX,yingwangtech.org
   - DOMAIN-SUFFIX,yingwangtech.pro
+  - DOMAIN-SUFFIX,yingwangtech.red
   - DOMAIN-SUFFIX,yingwangtech.ru
   - DOMAIN-SUFFIX,yingwangtech.sh
   - DOMAIN-SUFFIX,yingwangtech.shop
