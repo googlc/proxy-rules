@@ -60,6 +60,7 @@ host-suffix, amazonaws.work
 host-suffix, amazonaws.world
 host-suffix, amazonaws.xyz
 host-suffix, amazonaws.services
+host-suffix, amazonaws.cab
 host-suffix, amazontrust.ac
 host-suffix, amazontrust.academy
 host-suffix, amazontrust.ai
@@ -122,6 +123,7 @@ host-suffix, amazontrust.work
 host-suffix, amazontrust.world
 host-suffix, amazontrust.xyz
 host-suffix, amazontrust.services
+host-suffix, amazontrust.cab
 host-suffix, appsflyer.ac
 host-suffix, appsflyer.academy
 host-suffix, appsflyer.ai
@@ -184,6 +186,7 @@ host-suffix, appsflyer.work
 host-suffix, appsflyer.world
 host-suffix, appsflyer.xyz
 host-suffix, appsflyer.services
+host-suffix, appsflyer.cab
 host-suffix, appsflyersdk.ac
 host-suffix, appsflyersdk.academy
 host-suffix, appsflyersdk.ai
@@ -246,6 +249,7 @@ host-suffix, appsflyersdk.work
 host-suffix, appsflyersdk.world
 host-suffix, appsflyersdk.xyz
 host-suffix, appsflyersdk.services
+host-suffix, appsflyersdk.cab
 host-suffix, binance.ac
 host-suffix, binance.academy
 host-suffix, binance.ai
@@ -308,6 +312,7 @@ host-suffix, binance.work
 host-suffix, binance.world
 host-suffix, binance.xyz
 host-suffix, binance.services
+host-suffix, binance.cab
 host-suffix, binancecnt.ac
 host-suffix, binancecnt.academy
 host-suffix, binancecnt.ai
@@ -370,6 +375,7 @@ host-suffix, binancecnt.work
 host-suffix, binancecnt.world
 host-suffix, binancecnt.xyz
 host-suffix, binancecnt.services
+host-suffix, binancecnt.cab
 host-suffix, binancefuture.ac
 host-suffix, binancefuture.academy
 host-suffix, binancefuture.ai
@@ -432,6 +438,7 @@ host-suffix, binancefuture.work
 host-suffix, binancefuture.world
 host-suffix, binancefuture.xyz
 host-suffix, binancefuture.services
+host-suffix, binancefuture.cab
 host-suffix, binancezh.ac
 host-suffix, binancezh.academy
 host-suffix, binancezh.ai
@@ -494,6 +501,7 @@ host-suffix, binancezh.work
 host-suffix, binancezh.world
 host-suffix, binancezh.xyz
 host-suffix, binancezh.services
+host-suffix, binancezh.cab
 host-suffix, bmwweb.ac
 host-suffix, bmwweb.academy
 host-suffix, bmwweb.ai
@@ -556,6 +564,7 @@ host-suffix, bmwweb.work
 host-suffix, bmwweb.world
 host-suffix, bmwweb.xyz
 host-suffix, bmwweb.services
+host-suffix, bmwweb.cab
 host-suffix, bnappweb.ac
 host-suffix, bnappweb.academy
 host-suffix, bnappweb.ai
@@ -618,6 +627,7 @@ host-suffix, bnappweb.work
 host-suffix, bnappweb.world
 host-suffix, bnappweb.xyz
 host-suffix, bnappweb.services
+host-suffix, bnappweb.cab
 host-suffix, bnappzh.ac
 host-suffix, bnappzh.academy
 host-suffix, bnappzh.ai
@@ -680,6 +690,7 @@ host-suffix, bnappzh.work
 host-suffix, bnappzh.world
 host-suffix, bnappzh.xyz
 host-suffix, bnappzh.services
+host-suffix, bnappzh.cab
 host-suffix, bnbstatic.ac
 host-suffix, bnbstatic.academy
 host-suffix, bnbstatic.ai
@@ -742,6 +753,7 @@ host-suffix, bnbstatic.work
 host-suffix, bnbstatic.world
 host-suffix, bnbstatic.xyz
 host-suffix, bnbstatic.services
+host-suffix, bnbstatic.cab
 host-suffix, bnbzh.ac
 host-suffix, bnbzh.academy
 host-suffix, bnbzh.ai
@@ -804,6 +816,7 @@ host-suffix, bnbzh.work
 host-suffix, bnbzh.world
 host-suffix, bnbzh.xyz
 host-suffix, bnbzh.services
+host-suffix, bnbzh.cab
 host-suffix, bntrace.ac
 host-suffix, bntrace.academy
 host-suffix, bntrace.ai
@@ -866,6 +879,7 @@ host-suffix, bntrace.work
 host-suffix, bntrace.world
 host-suffix, bntrace.xyz
 host-suffix, bntrace.services
+host-suffix, bntrace.cab
 host-suffix, cloudfront.ac
 host-suffix, cloudfront.academy
 host-suffix, cloudfront.ai
@@ -928,6 +942,7 @@ host-suffix, cloudfront.work
 host-suffix, cloudfront.world
 host-suffix, cloudfront.xyz
 host-suffix, cloudfront.services
+host-suffix, cloudfront.cab
 host-suffix, devfdg.ac
 host-suffix, devfdg.academy
 host-suffix, devfdg.ai
@@ -990,6 +1005,7 @@ host-suffix, devfdg.work
 host-suffix, devfdg.world
 host-suffix, devfdg.xyz
 host-suffix, devfdg.services
+host-suffix, devfdg.cab
 host-suffix, forter.ac
 host-suffix, forter.academy
 host-suffix, forter.ai
@@ -1052,6 +1068,7 @@ host-suffix, forter.work
 host-suffix, forter.world
 host-suffix, forter.xyz
 host-suffix, forter.services
+host-suffix, forter.cab
 host-suffix, marketwebb.ac
 host-suffix, marketwebb.academy
 host-suffix, marketwebb.ai
@@ -1114,6 +1131,7 @@ host-suffix, marketwebb.work
 host-suffix, marketwebb.world
 host-suffix, marketwebb.xyz
 host-suffix, marketwebb.services
+host-suffix, marketwebb.cab
 host-suffix, maxweb.ac
 host-suffix, maxweb.academy
 host-suffix, maxweb.ai
@@ -1176,6 +1194,7 @@ host-suffix, maxweb.work
 host-suffix, maxweb.world
 host-suffix, maxweb.xyz
 host-suffix, maxweb.services
+host-suffix, maxweb.cab
 host-suffix, myqcloud.ac
 host-suffix, myqcloud.academy
 host-suffix, myqcloud.ai
@@ -1238,6 +1257,7 @@ host-suffix, myqcloud.work
 host-suffix, myqcloud.world
 host-suffix, myqcloud.xyz
 host-suffix, myqcloud.services
+host-suffix, myqcloud.cab
 host-suffix, nftstatic.ac
 host-suffix, nftstatic.academy
 host-suffix, nftstatic.ai
@@ -1300,6 +1320,7 @@ host-suffix, nftstatic.work
 host-suffix, nftstatic.world
 host-suffix, nftstatic.xyz
 host-suffix, nftstatic.services
+host-suffix, nftstatic.cab
 host-suffix, saasexch.ac
 host-suffix, saasexch.academy
 host-suffix, saasexch.ai
@@ -1362,6 +1383,7 @@ host-suffix, saasexch.work
 host-suffix, saasexch.world
 host-suffix, saasexch.xyz
 host-suffix, saasexch.services
+host-suffix, saasexch.cab
 host-suffix, tlivesource.ac
 host-suffix, tlivesource.academy
 host-suffix, tlivesource.ai
@@ -1424,6 +1446,7 @@ host-suffix, tlivesource.work
 host-suffix, tlivesource.world
 host-suffix, tlivesource.xyz
 host-suffix, tlivesource.services
+host-suffix, tlivesource.cab
 host-suffix, tylhh.ac
 host-suffix, tylhh.academy
 host-suffix, tylhh.ai
@@ -1486,6 +1509,7 @@ host-suffix, tylhh.work
 host-suffix, tylhh.world
 host-suffix, tylhh.xyz
 host-suffix, tylhh.services
+host-suffix, tylhh.cab
 host-suffix, walletconnect.ac
 host-suffix, walletconnect.academy
 host-suffix, walletconnect.ai
@@ -1548,6 +1572,7 @@ host-suffix, walletconnect.work
 host-suffix, walletconnect.world
 host-suffix, walletconnect.xyz
 host-suffix, walletconnect.services
+host-suffix, walletconnect.cab
 host-suffix, yingwangtech.ac
 host-suffix, yingwangtech.academy
 host-suffix, yingwangtech.ai
@@ -1610,3 +1635,4 @@ host-suffix, yingwangtech.work
 host-suffix, yingwangtech.world
 host-suffix, yingwangtech.xyz
 host-suffix, yingwangtech.services
+host-suffix, yingwangtech.cab

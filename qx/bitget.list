@@ -60,6 +60,7 @@ host-suffix, bgstatic.work
 host-suffix, bgstatic.world
 host-suffix, bgstatic.xyz
 host-suffix, bgstatic.services
+host-suffix, bgstatic.cab
 host-suffix, bitget.ac
 host-suffix, bitget.academy
 host-suffix, bitget.ai
@@ -122,6 +123,7 @@ host-suffix, bitget.work
 host-suffix, bitget.world
 host-suffix, bitget.xyz
 host-suffix, bitget.services
+host-suffix, bitget.cab
 host-suffix, bitgetapp.ac
 host-suffix, bitgetapp.academy
 host-suffix, bitgetapp.ai
@@ -184,6 +186,7 @@ host-suffix, bitgetapp.work
 host-suffix, bitgetapp.world
 host-suffix, bitgetapp.xyz
 host-suffix, bitgetapp.services
+host-suffix, bitgetapp.cab
 host-suffix, bitgetapps.ac
 host-suffix, bitgetapps.academy
 host-suffix, bitgetapps.ai
@@ -246,6 +249,7 @@ host-suffix, bitgetapps.work
 host-suffix, bitgetapps.world
 host-suffix, bitgetapps.xyz
 host-suffix, bitgetapps.services
+host-suffix, bitgetapps.cab
 host-suffix, ddjxad.ac
 host-suffix, ddjxad.academy
 host-suffix, ddjxad.ai
@@ -308,6 +312,7 @@ host-suffix, ddjxad.work
 host-suffix, ddjxad.world
 host-suffix, ddjxad.xyz
 host-suffix, ddjxad.services
+host-suffix, ddjxad.cab
 host-suffix, dhxrcw.ac
 host-suffix, dhxrcw.academy
 host-suffix, dhxrcw.ai
@@ -370,6 +375,7 @@ host-suffix, dhxrcw.work
 host-suffix, dhxrcw.world
 host-suffix, dhxrcw.xyz
 host-suffix, dhxrcw.services
+host-suffix, dhxrcw.cab
 host-suffix, engagelab.ac
 host-suffix, engagelab.academy
 host-suffix, engagelab.ai
@@ -432,6 +438,7 @@ host-suffix, engagelab.work
 host-suffix, engagelab.world
 host-suffix, engagelab.xyz
 host-suffix, engagelab.services
+host-suffix, engagelab.cab
 host-suffix, gdrichem.ac
 host-suffix, gdrichem.academy
 host-suffix, gdrichem.ai
@@ -494,6 +501,7 @@ host-suffix, gdrichem.work
 host-suffix, gdrichem.world
 host-suffix, gdrichem.xyz
 host-suffix, gdrichem.services
+host-suffix, gdrichem.cab
 host-suffix, gm816.ac
 host-suffix, gm816.academy
 host-suffix, gm816.ai
@@ -556,6 +564,7 @@ host-suffix, gm816.work
 host-suffix, gm816.world
 host-suffix, gm816.xyz
 host-suffix, gm816.services
+host-suffix, gm816.cab
 host-suffix, gurenla.ac
 host-suffix, gurenla.academy
 host-suffix, gurenla.ai
@@ -618,6 +627,7 @@ host-suffix, gurenla.work
 host-suffix, gurenla.world
 host-suffix, gurenla.xyz
 host-suffix, gurenla.services
+host-suffix, gurenla.cab
 host-suffix, hdmune.ac
 host-suffix, hdmune.academy
 host-suffix, hdmune.ai
@@ -680,6 +690,7 @@ host-suffix, hdmune.work
 host-suffix, hdmune.world
 host-suffix, hdmune.xyz
 host-suffix, hdmune.services
+host-suffix, hdmune.cab
 host-suffix, noxiaohao.ac
 host-suffix, noxiaohao.academy
 host-suffix, noxiaohao.ai
@@ -742,6 +753,7 @@ host-suffix, noxiaohao.work
 host-suffix, noxiaohao.world
 host-suffix, noxiaohao.xyz
 host-suffix, noxiaohao.services
+host-suffix, noxiaohao.cab
 host-suffix, gstatic.ac
 host-suffix, gstatic.academy
 host-suffix, gstatic.ai
@@ -804,6 +816,7 @@ host-suffix, gstatic.work
 host-suffix, gstatic.world
 host-suffix, gstatic.xyz
 host-suffix, gstatic.services
+host-suffix, gstatic.cab
 host-suffix, abcdstable.ac
 host-suffix, abcdstable.academy
 host-suffix, abcdstable.ai
@@ -866,6 +879,7 @@ host-suffix, abcdstable.work
 host-suffix, abcdstable.world
 host-suffix, abcdstable.xyz
 host-suffix, abcdstable.services
+host-suffix, abcdstable.cab
 host-suffix, theengagelab.ac
 host-suffix, theengagelab.academy
 host-suffix, theengagelab.ai
@@ -928,6 +942,7 @@ host-suffix, theengagelab.work
 host-suffix, theengagelab.world
 host-suffix, theengagelab.xyz
 host-suffix, theengagelab.services
+host-suffix, theengagelab.cab
 host-suffix, engageforce.ac
 host-suffix, engageforce.academy
 host-suffix, engageforce.ai
@@ -990,3 +1005,4 @@ host-suffix, engageforce.work
 host-suffix, engageforce.world
 host-suffix, engageforce.xyz
 host-suffix, engageforce.services
+host-suffix, engageforce.cab

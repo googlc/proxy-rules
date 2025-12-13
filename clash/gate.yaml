@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,adjust.work
 DOMAIN-SUFFIX,adjust.world
 DOMAIN-SUFFIX,adjust.xyz
 DOMAIN-SUFFIX,adjust.services
+DOMAIN-SUFFIX,adjust.cab
 DOMAIN-SUFFIX,bxjddjt.ac
 DOMAIN-SUFFIX,bxjddjt.academy
 DOMAIN-SUFFIX,bxjddjt.ai
@@ -122,6 +123,7 @@ DOMAIN-SUFFIX,bxjddjt.work
 DOMAIN-SUFFIX,bxjddjt.world
 DOMAIN-SUFFIX,bxjddjt.xyz
 DOMAIN-SUFFIX,bxjddjt.services
+DOMAIN-SUFFIX,bxjddjt.cab
 DOMAIN-SUFFIX,csrqoa.ac
 DOMAIN-SUFFIX,csrqoa.academy
 DOMAIN-SUFFIX,csrqoa.ai
@@ -184,6 +186,7 @@ DOMAIN-SUFFIX,csrqoa.work
 DOMAIN-SUFFIX,csrqoa.world
 DOMAIN-SUFFIX,csrqoa.xyz
 DOMAIN-SUFFIX,csrqoa.services
+DOMAIN-SUFFIX,csrqoa.cab
 DOMAIN-SUFFIX,didhelper.ac
 DOMAIN-SUFFIX,didhelper.academy
 DOMAIN-SUFFIX,didhelper.ai
@@ -246,6 +249,7 @@ DOMAIN-SUFFIX,didhelper.work
 DOMAIN-SUFFIX,didhelper.world
 DOMAIN-SUFFIX,didhelper.xyz
 DOMAIN-SUFFIX,didhelper.services
+DOMAIN-SUFFIX,didhelper.cab
 DOMAIN-SUFFIX,freestun.ac
 DOMAIN-SUFFIX,freestun.academy
 DOMAIN-SUFFIX,freestun.ai
@@ -308,6 +312,7 @@ DOMAIN-SUFFIX,freestun.work
 DOMAIN-SUFFIX,freestun.world
 DOMAIN-SUFFIX,freestun.xyz
 DOMAIN-SUFFIX,freestun.services
+DOMAIN-SUFFIX,freestun.cab
 DOMAIN-SUFFIX,freshmarkethome.ac
 DOMAIN-SUFFIX,freshmarkethome.academy
 DOMAIN-SUFFIX,freshmarkethome.ai
@@ -370,6 +375,7 @@ DOMAIN-SUFFIX,freshmarkethome.work
 DOMAIN-SUFFIX,freshmarkethome.world
 DOMAIN-SUFFIX,freshmarkethome.xyz
 DOMAIN-SUFFIX,freshmarkethome.services
+DOMAIN-SUFFIX,freshmarkethome.cab
 DOMAIN-SUFFIX,gate.ac
 DOMAIN-SUFFIX,gate.academy
 DOMAIN-SUFFIX,gate.ai
@@ -432,6 +438,7 @@ DOMAIN-SUFFIX,gate.work
 DOMAIN-SUFFIX,gate.world
 DOMAIN-SUFFIX,gate.xyz
 DOMAIN-SUFFIX,gate.services
+DOMAIN-SUFFIX,gate.cab
 DOMAIN-SUFFIX,gate-link.ac
 DOMAIN-SUFFIX,gate-link.academy
 DOMAIN-SUFFIX,gate-link.ai
@@ -494,6 +501,7 @@ DOMAIN-SUFFIX,gate-link.work
 DOMAIN-SUFFIX,gate-link.world
 DOMAIN-SUFFIX,gate-link.xyz
 DOMAIN-SUFFIX,gate-link.services
+DOMAIN-SUFFIX,gate-link.cab
 DOMAIN-SUFFIX,gatedata.ac
 DOMAIN-SUFFIX,gatedata.academy
 DOMAIN-SUFFIX,gatedata.ai
@@ -556,6 +564,7 @@ DOMAIN-SUFFIX,gatedata.work
 DOMAIN-SUFFIX,gatedata.world
 DOMAIN-SUFFIX,gatedata.xyz
 DOMAIN-SUFFIX,gatedata.services
+DOMAIN-SUFFIX,gatedata.cab
 DOMAIN-SUFFIX,gatedataimg.ac
 DOMAIN-SUFFIX,gatedataimg.academy
 DOMAIN-SUFFIX,gatedataimg.ai
@@ -618,6 +627,7 @@ DOMAIN-SUFFIX,gatedataimg.work
 DOMAIN-SUFFIX,gatedataimg.world
 DOMAIN-SUFFIX,gatedataimg.xyz
 DOMAIN-SUFFIX,gatedataimg.services
+DOMAIN-SUFFIX,gatedataimg.cab
 DOMAIN-SUFFIX,gateex.ac
 DOMAIN-SUFFIX,gateex.academy
 DOMAIN-SUFFIX,gateex.ai
@@ -680,6 +690,7 @@ DOMAIN-SUFFIX,gateex.work
 DOMAIN-SUFFIX,gateex.world
 DOMAIN-SUFFIX,gateex.xyz
 DOMAIN-SUFFIX,gateex.services
+DOMAIN-SUFFIX,gateex.cab
 DOMAIN-SUFFIX,gateimage.ac
 DOMAIN-SUFFIX,gateimage.academy
 DOMAIN-SUFFIX,gateimage.ai
@@ -742,6 +753,7 @@ DOMAIN-SUFFIX,gateimage.work
 DOMAIN-SUFFIX,gateimage.world
 DOMAIN-SUFFIX,gateimage.xyz
 DOMAIN-SUFFIX,gateimage.services
+DOMAIN-SUFFIX,gateimage.cab
 DOMAIN-SUFFIX,gateio.ac
 DOMAIN-SUFFIX,gateio.academy
 DOMAIN-SUFFIX,gateio.ai
@@ -804,6 +816,7 @@ DOMAIN-SUFFIX,gateio.work
 DOMAIN-SUFFIX,gateio.world
 DOMAIN-SUFFIX,gateio.xyz
 DOMAIN-SUFFIX,gateio.services
+DOMAIN-SUFFIX,gateio.cab
 DOMAIN-SUFFIX,gatesite.ac
 DOMAIN-SUFFIX,gatesite.academy
 DOMAIN-SUFFIX,gatesite.ai
@@ -866,6 +879,7 @@ DOMAIN-SUFFIX,gatesite.work
 DOMAIN-SUFFIX,gatesite.world
 DOMAIN-SUFFIX,gatesite.xyz
 DOMAIN-SUFFIX,gatesite.services
+DOMAIN-SUFFIX,gatesite.cab
 DOMAIN-SUFFIX,gatesites.ac
 DOMAIN-SUFFIX,gatesites.academy
 DOMAIN-SUFFIX,gatesites.ai
@@ -928,6 +942,7 @@ DOMAIN-SUFFIX,gatesites.work
 DOMAIN-SUFFIX,gatesites.world
 DOMAIN-SUFFIX,gatesites.xyz
 DOMAIN-SUFFIX,gatesites.services
+DOMAIN-SUFFIX,gatesites.cab
 DOMAIN-SUFFIX,googletagmanager.ac
 DOMAIN-SUFFIX,googletagmanager.academy
 DOMAIN-SUFFIX,googletagmanager.ai
@@ -990,6 +1005,7 @@ DOMAIN-SUFFIX,googletagmanager.work
 DOMAIN-SUFFIX,googletagmanager.world
 DOMAIN-SUFFIX,googletagmanager.xyz
 DOMAIN-SUFFIX,googletagmanager.services
+DOMAIN-SUFFIX,googletagmanager.cab
 DOMAIN-SUFFIX,gposts.ac
 DOMAIN-SUFFIX,gposts.academy
 DOMAIN-SUFFIX,gposts.ai
@@ -1052,6 +1068,7 @@ DOMAIN-SUFFIX,gposts.work
 DOMAIN-SUFFIX,gposts.world
 DOMAIN-SUFFIX,gposts.xyz
 DOMAIN-SUFFIX,gposts.services
+DOMAIN-SUFFIX,gposts.cab
 DOMAIN-SUFFIX,gt-io.ac
 DOMAIN-SUFFIX,gt-io.academy
 DOMAIN-SUFFIX,gt-io.ai
@@ -1114,6 +1131,7 @@ DOMAIN-SUFFIX,gt-io.work
 DOMAIN-SUFFIX,gt-io.world
 DOMAIN-SUFFIX,gt-io.xyz
 DOMAIN-SUFFIX,gt-io.services
+DOMAIN-SUFFIX,gt-io.cab
 DOMAIN-SUFFIX,ldd678.ac
 DOMAIN-SUFFIX,ldd678.academy
 DOMAIN-SUFFIX,ldd678.ai
@@ -1176,6 +1194,7 @@ DOMAIN-SUFFIX,ldd678.work
 DOMAIN-SUFFIX,ldd678.world
 DOMAIN-SUFFIX,ldd678.xyz
 DOMAIN-SUFFIX,ldd678.services
+DOMAIN-SUFFIX,ldd678.cab
 DOMAIN-SUFFIX,mbm06.ac
 DOMAIN-SUFFIX,mbm06.academy
 DOMAIN-SUFFIX,mbm06.ai
@@ -1238,6 +1257,7 @@ DOMAIN-SUFFIX,mbm06.work
 DOMAIN-SUFFIX,mbm06.world
 DOMAIN-SUFFIX,mbm06.xyz
 DOMAIN-SUFFIX,mbm06.services
+DOMAIN-SUFFIX,mbm06.cab
 DOMAIN-SUFFIX,panpno.ac
 DOMAIN-SUFFIX,panpno.academy
 DOMAIN-SUFFIX,panpno.ai
@@ -1300,6 +1320,7 @@ DOMAIN-SUFFIX,panpno.work
 DOMAIN-SUFFIX,panpno.world
 DOMAIN-SUFFIX,panpno.xyz
 DOMAIN-SUFFIX,panpno.services
+DOMAIN-SUFFIX,panpno.cab
 DOMAIN-SUFFIX,pushcloud.ac
 DOMAIN-SUFFIX,pushcloud.academy
 DOMAIN-SUFFIX,pushcloud.ai
@@ -1362,6 +1383,7 @@ DOMAIN-SUFFIX,pushcloud.work
 DOMAIN-SUFFIX,pushcloud.world
 DOMAIN-SUFFIX,pushcloud.xyz
 DOMAIN-SUFFIX,pushcloud.services
+DOMAIN-SUFFIX,pushcloud.cab
 DOMAIN-SUFFIX,smartappnet.ac
 DOMAIN-SUFFIX,smartappnet.academy
 DOMAIN-SUFFIX,smartappnet.ai
@@ -1424,6 +1446,7 @@ DOMAIN-SUFFIX,smartappnet.work
 DOMAIN-SUFFIX,smartappnet.world
 DOMAIN-SUFFIX,smartappnet.xyz
 DOMAIN-SUFFIX,smartappnet.services
+DOMAIN-SUFFIX,smartappnet.cab
 DOMAIN-SUFFIX,staticimgs.ac
 DOMAIN-SUFFIX,staticimgs.academy
 DOMAIN-SUFFIX,staticimgs.ai
@@ -1486,6 +1509,7 @@ DOMAIN-SUFFIX,staticimgs.work
 DOMAIN-SUFFIX,staticimgs.world
 DOMAIN-SUFFIX,staticimgs.xyz
 DOMAIN-SUFFIX,staticimgs.services
+DOMAIN-SUFFIX,staticimgs.cab
 DOMAIN-SUFFIX,studiotv.ac
 DOMAIN-SUFFIX,studiotv.academy
 DOMAIN-SUFFIX,studiotv.ai
@@ -1548,6 +1572,7 @@ DOMAIN-SUFFIX,studiotv.work
 DOMAIN-SUFFIX,studiotv.world
 DOMAIN-SUFFIX,studiotv.xyz
 DOMAIN-SUFFIX,studiotv.services
+DOMAIN-SUFFIX,studiotv.cab
 DOMAIN-SUFFIX,stunprotocol.ac
 DOMAIN-SUFFIX,stunprotocol.academy
 DOMAIN-SUFFIX,stunprotocol.ai
@@ -1610,6 +1635,7 @@ DOMAIN-SUFFIX,stunprotocol.work
 DOMAIN-SUFFIX,stunprotocol.world
 DOMAIN-SUFFIX,stunprotocol.xyz
 DOMAIN-SUFFIX,stunprotocol.services
+DOMAIN-SUFFIX,stunprotocol.cab
 DOMAIN-SUFFIX,tsarvgh.ac
 DOMAIN-SUFFIX,tsarvgh.academy
 DOMAIN-SUFFIX,tsarvgh.ai
@@ -1672,6 +1698,7 @@ DOMAIN-SUFFIX,tsarvgh.work
 DOMAIN-SUFFIX,tsarvgh.world
 DOMAIN-SUFFIX,tsarvgh.xyz
 DOMAIN-SUFFIX,tsarvgh.services
+DOMAIN-SUFFIX,tsarvgh.cab
 DOMAIN-SUFFIX,volccdn.ac
 DOMAIN-SUFFIX,volccdn.academy
 DOMAIN-SUFFIX,volccdn.ai
@@ -1734,6 +1761,7 @@ DOMAIN-SUFFIX,volccdn.work
 DOMAIN-SUFFIX,volccdn.world
 DOMAIN-SUFFIX,volccdn.xyz
 DOMAIN-SUFFIX,volccdn.services
+DOMAIN-SUFFIX,volccdn.cab
 DOMAIN-SUFFIX,volces.ac
 DOMAIN-SUFFIX,volces.academy
 DOMAIN-SUFFIX,volces.ai
@@ -1796,6 +1824,7 @@ DOMAIN-SUFFIX,volces.work
 DOMAIN-SUFFIX,volces.world
 DOMAIN-SUFFIX,volces.xyz
 DOMAIN-SUFFIX,volces.services
+DOMAIN-SUFFIX,volces.cab
 DOMAIN-SUFFIX,zudanje.ac
 DOMAIN-SUFFIX,zudanje.academy
 DOMAIN-SUFFIX,zudanje.ai
@@ -1858,6 +1887,7 @@ DOMAIN-SUFFIX,zudanje.work
 DOMAIN-SUFFIX,zudanje.world
 DOMAIN-SUFFIX,zudanje.xyz
 DOMAIN-SUFFIX,zudanje.services
+DOMAIN-SUFFIX,zudanje.cab
 DOMAIN-SUFFIX,zysh.ac
 DOMAIN-SUFFIX,zysh.academy
 DOMAIN-SUFFIX,zysh.ai
@@ -1920,6 +1950,7 @@ DOMAIN-SUFFIX,zysh.work
 DOMAIN-SUFFIX,zysh.world
 DOMAIN-SUFFIX,zysh.xyz
 DOMAIN-SUFFIX,zysh.services
+DOMAIN-SUFFIX,zysh.cab
 DOMAIN-SUFFIX,bnw3w.ac
 DOMAIN-SUFFIX,bnw3w.academy
 DOMAIN-SUFFIX,bnw3w.ai
@@ -1982,6 +2013,7 @@ DOMAIN-SUFFIX,bnw3w.work
 DOMAIN-SUFFIX,bnw3w.world
 DOMAIN-SUFFIX,bnw3w.xyz
 DOMAIN-SUFFIX,bnw3w.services
+DOMAIN-SUFFIX,bnw3w.cab
 DOMAIN-SUFFIX,wsbridge.ac
 DOMAIN-SUFFIX,wsbridge.academy
 DOMAIN-SUFFIX,wsbridge.ai
@@ -2044,3 +2076,4 @@ DOMAIN-SUFFIX,wsbridge.work
 DOMAIN-SUFFIX,wsbridge.world
 DOMAIN-SUFFIX,wsbridge.xyz
 DOMAIN-SUFFIX,wsbridge.services
+DOMAIN-SUFFIX,wsbridge.cab

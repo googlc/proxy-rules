@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,amazonaws.work
 DOMAIN-SUFFIX,amazonaws.world
 DOMAIN-SUFFIX,amazonaws.xyz
 DOMAIN-SUFFIX,amazonaws.services
+DOMAIN-SUFFIX,amazonaws.cab
 DOMAIN-SUFFIX,amazontrust.ac
 DOMAIN-SUFFIX,amazontrust.academy
 DOMAIN-SUFFIX,amazontrust.ai
@@ -122,6 +123,7 @@ DOMAIN-SUFFIX,amazontrust.work
 DOMAIN-SUFFIX,amazontrust.world
 DOMAIN-SUFFIX,amazontrust.xyz
 DOMAIN-SUFFIX,amazontrust.services
+DOMAIN-SUFFIX,amazontrust.cab
 DOMAIN-SUFFIX,appsflyer.ac
 DOMAIN-SUFFIX,appsflyer.academy
 DOMAIN-SUFFIX,appsflyer.ai
@@ -184,6 +186,7 @@ DOMAIN-SUFFIX,appsflyer.work
 DOMAIN-SUFFIX,appsflyer.world
 DOMAIN-SUFFIX,appsflyer.xyz
 DOMAIN-SUFFIX,appsflyer.services
+DOMAIN-SUFFIX,appsflyer.cab
 DOMAIN-SUFFIX,appsflyersdk.ac
 DOMAIN-SUFFIX,appsflyersdk.academy
 DOMAIN-SUFFIX,appsflyersdk.ai
@@ -246,6 +249,7 @@ DOMAIN-SUFFIX,appsflyersdk.work
 DOMAIN-SUFFIX,appsflyersdk.world
 DOMAIN-SUFFIX,appsflyersdk.xyz
 DOMAIN-SUFFIX,appsflyersdk.services
+DOMAIN-SUFFIX,appsflyersdk.cab
 DOMAIN-SUFFIX,binance.ac
 DOMAIN-SUFFIX,binance.academy
 DOMAIN-SUFFIX,binance.ai
@@ -308,6 +312,7 @@ DOMAIN-SUFFIX,binance.work
 DOMAIN-SUFFIX,binance.world
 DOMAIN-SUFFIX,binance.xyz
 DOMAIN-SUFFIX,binance.services
+DOMAIN-SUFFIX,binance.cab
 DOMAIN-SUFFIX,binancecnt.ac
 DOMAIN-SUFFIX,binancecnt.academy
 DOMAIN-SUFFIX,binancecnt.ai
@@ -370,6 +375,7 @@ DOMAIN-SUFFIX,binancecnt.work
 DOMAIN-SUFFIX,binancecnt.world
 DOMAIN-SUFFIX,binancecnt.xyz
 DOMAIN-SUFFIX,binancecnt.services
+DOMAIN-SUFFIX,binancecnt.cab
 DOMAIN-SUFFIX,binancefuture.ac
 DOMAIN-SUFFIX,binancefuture.academy
 DOMAIN-SUFFIX,binancefuture.ai
@@ -432,6 +438,7 @@ DOMAIN-SUFFIX,binancefuture.work
 DOMAIN-SUFFIX,binancefuture.world
 DOMAIN-SUFFIX,binancefuture.xyz
 DOMAIN-SUFFIX,binancefuture.services
+DOMAIN-SUFFIX,binancefuture.cab
 DOMAIN-SUFFIX,binancezh.ac
 DOMAIN-SUFFIX,binancezh.academy
 DOMAIN-SUFFIX,binancezh.ai
@@ -494,6 +501,7 @@ DOMAIN-SUFFIX,binancezh.work
 DOMAIN-SUFFIX,binancezh.world
 DOMAIN-SUFFIX,binancezh.xyz
 DOMAIN-SUFFIX,binancezh.services
+DOMAIN-SUFFIX,binancezh.cab
 DOMAIN-SUFFIX,bmwweb.ac
 DOMAIN-SUFFIX,bmwweb.academy
 DOMAIN-SUFFIX,bmwweb.ai
@@ -556,6 +564,7 @@ DOMAIN-SUFFIX,bmwweb.work
 DOMAIN-SUFFIX,bmwweb.world
 DOMAIN-SUFFIX,bmwweb.xyz
 DOMAIN-SUFFIX,bmwweb.services
+DOMAIN-SUFFIX,bmwweb.cab
 DOMAIN-SUFFIX,bnappweb.ac
 DOMAIN-SUFFIX,bnappweb.academy
 DOMAIN-SUFFIX,bnappweb.ai
@@ -618,6 +627,7 @@ DOMAIN-SUFFIX,bnappweb.work
 DOMAIN-SUFFIX,bnappweb.world
 DOMAIN-SUFFIX,bnappweb.xyz
 DOMAIN-SUFFIX,bnappweb.services
+DOMAIN-SUFFIX,bnappweb.cab
 DOMAIN-SUFFIX,bnappzh.ac
 DOMAIN-SUFFIX,bnappzh.academy
 DOMAIN-SUFFIX,bnappzh.ai
@@ -680,6 +690,7 @@ DOMAIN-SUFFIX,bnappzh.work
 DOMAIN-SUFFIX,bnappzh.world
 DOMAIN-SUFFIX,bnappzh.xyz
 DOMAIN-SUFFIX,bnappzh.services
+DOMAIN-SUFFIX,bnappzh.cab
 DOMAIN-SUFFIX,bnbstatic.ac
 DOMAIN-SUFFIX,bnbstatic.academy
 DOMAIN-SUFFIX,bnbstatic.ai
@@ -742,6 +753,7 @@ DOMAIN-SUFFIX,bnbstatic.work
 DOMAIN-SUFFIX,bnbstatic.world
 DOMAIN-SUFFIX,bnbstatic.xyz
 DOMAIN-SUFFIX,bnbstatic.services
+DOMAIN-SUFFIX,bnbstatic.cab
 DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,bnbzh.academy
 DOMAIN-SUFFIX,bnbzh.ai
@@ -804,6 +816,7 @@ DOMAIN-SUFFIX,bnbzh.work
 DOMAIN-SUFFIX,bnbzh.world
 DOMAIN-SUFFIX,bnbzh.xyz
 DOMAIN-SUFFIX,bnbzh.services
+DOMAIN-SUFFIX,bnbzh.cab
 DOMAIN-SUFFIX,bntrace.ac
 DOMAIN-SUFFIX,bntrace.academy
 DOMAIN-SUFFIX,bntrace.ai
@@ -866,6 +879,7 @@ DOMAIN-SUFFIX,bntrace.work
 DOMAIN-SUFFIX,bntrace.world
 DOMAIN-SUFFIX,bntrace.xyz
 DOMAIN-SUFFIX,bntrace.services
+DOMAIN-SUFFIX,bntrace.cab
 DOMAIN-SUFFIX,cloudfront.ac
 DOMAIN-SUFFIX,cloudfront.academy
 DOMAIN-SUFFIX,cloudfront.ai
@@ -928,6 +942,7 @@ DOMAIN-SUFFIX,cloudfront.work
 DOMAIN-SUFFIX,cloudfront.world
 DOMAIN-SUFFIX,cloudfront.xyz
 DOMAIN-SUFFIX,cloudfront.services
+DOMAIN-SUFFIX,cloudfront.cab
 DOMAIN-SUFFIX,devfdg.ac
 DOMAIN-SUFFIX,devfdg.academy
 DOMAIN-SUFFIX,devfdg.ai
@@ -990,6 +1005,7 @@ DOMAIN-SUFFIX,devfdg.work
 DOMAIN-SUFFIX,devfdg.world
 DOMAIN-SUFFIX,devfdg.xyz
 DOMAIN-SUFFIX,devfdg.services
+DOMAIN-SUFFIX,devfdg.cab
 DOMAIN-SUFFIX,forter.ac
 DOMAIN-SUFFIX,forter.academy
 DOMAIN-SUFFIX,forter.ai
@@ -1052,6 +1068,7 @@ DOMAIN-SUFFIX,forter.work
 DOMAIN-SUFFIX,forter.world
 DOMAIN-SUFFIX,forter.xyz
 DOMAIN-SUFFIX,forter.services
+DOMAIN-SUFFIX,forter.cab
 DOMAIN-SUFFIX,marketwebb.ac
 DOMAIN-SUFFIX,marketwebb.academy
 DOMAIN-SUFFIX,marketwebb.ai
@@ -1114,6 +1131,7 @@ DOMAIN-SUFFIX,marketwebb.work
 DOMAIN-SUFFIX,marketwebb.world
 DOMAIN-SUFFIX,marketwebb.xyz
 DOMAIN-SUFFIX,marketwebb.services
+DOMAIN-SUFFIX,marketwebb.cab
 DOMAIN-SUFFIX,maxweb.ac
 DOMAIN-SUFFIX,maxweb.academy
 DOMAIN-SUFFIX,maxweb.ai
@@ -1176,6 +1194,7 @@ DOMAIN-SUFFIX,maxweb.work
 DOMAIN-SUFFIX,maxweb.world
 DOMAIN-SUFFIX,maxweb.xyz
 DOMAIN-SUFFIX,maxweb.services
+DOMAIN-SUFFIX,maxweb.cab
 DOMAIN-SUFFIX,myqcloud.ac
 DOMAIN-SUFFIX,myqcloud.academy
 DOMAIN-SUFFIX,myqcloud.ai
@@ -1238,6 +1257,7 @@ DOMAIN-SUFFIX,myqcloud.work
 DOMAIN-SUFFIX,myqcloud.world
 DOMAIN-SUFFIX,myqcloud.xyz
 DOMAIN-SUFFIX,myqcloud.services
+DOMAIN-SUFFIX,myqcloud.cab
 DOMAIN-SUFFIX,nftstatic.ac
 DOMAIN-SUFFIX,nftstatic.academy
 DOMAIN-SUFFIX,nftstatic.ai
@@ -1300,6 +1320,7 @@ DOMAIN-SUFFIX,nftstatic.work
 DOMAIN-SUFFIX,nftstatic.world
 DOMAIN-SUFFIX,nftstatic.xyz
 DOMAIN-SUFFIX,nftstatic.services
+DOMAIN-SUFFIX,nftstatic.cab
 DOMAIN-SUFFIX,saasexch.ac
 DOMAIN-SUFFIX,saasexch.academy
 DOMAIN-SUFFIX,saasexch.ai
@@ -1362,6 +1383,7 @@ DOMAIN-SUFFIX,saasexch.work
 DOMAIN-SUFFIX,saasexch.world
 DOMAIN-SUFFIX,saasexch.xyz
 DOMAIN-SUFFIX,saasexch.services
+DOMAIN-SUFFIX,saasexch.cab
 DOMAIN-SUFFIX,tlivesource.ac
 DOMAIN-SUFFIX,tlivesource.academy
 DOMAIN-SUFFIX,tlivesource.ai
@@ -1424,6 +1446,7 @@ DOMAIN-SUFFIX,tlivesource.work
 DOMAIN-SUFFIX,tlivesource.world
 DOMAIN-SUFFIX,tlivesource.xyz
 DOMAIN-SUFFIX,tlivesource.services
+DOMAIN-SUFFIX,tlivesource.cab
 DOMAIN-SUFFIX,tylhh.ac
 DOMAIN-SUFFIX,tylhh.academy
 DOMAIN-SUFFIX,tylhh.ai
@@ -1486,6 +1509,7 @@ DOMAIN-SUFFIX,tylhh.work
 DOMAIN-SUFFIX,tylhh.world
 DOMAIN-SUFFIX,tylhh.xyz
 DOMAIN-SUFFIX,tylhh.services
+DOMAIN-SUFFIX,tylhh.cab
 DOMAIN-SUFFIX,walletconnect.ac
 DOMAIN-SUFFIX,walletconnect.academy
 DOMAIN-SUFFIX,walletconnect.ai
@@ -1548,6 +1572,7 @@ DOMAIN-SUFFIX,walletconnect.work
 DOMAIN-SUFFIX,walletconnect.world
 DOMAIN-SUFFIX,walletconnect.xyz
 DOMAIN-SUFFIX,walletconnect.services
+DOMAIN-SUFFIX,walletconnect.cab
 DOMAIN-SUFFIX,yingwangtech.ac
 DOMAIN-SUFFIX,yingwangtech.academy
 DOMAIN-SUFFIX,yingwangtech.ai
@@ -1610,3 +1635,4 @@ DOMAIN-SUFFIX,yingwangtech.work
 DOMAIN-SUFFIX,yingwangtech.world
 DOMAIN-SUFFIX,yingwangtech.xyz
 DOMAIN-SUFFIX,yingwangtech.services
+DOMAIN-SUFFIX,yingwangtech.cab
