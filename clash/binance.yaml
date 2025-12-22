@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,amazonaws.app
 DOMAIN-SUFFIX,amazonaws.au
 DOMAIN-SUFFIX,amazonaws.biz
 DOMAIN-SUFFIX,amazonaws.blog
+DOMAIN-SUFFIX,amazonaws.black
 DOMAIN-SUFFIX,amazonaws.br
 DOMAIN-SUFFIX,amazonaws.ca
 DOMAIN-SUFFIX,amazonaws.cc
@@ -68,6 +69,7 @@ DOMAIN-SUFFIX,amazontrust.app
 DOMAIN-SUFFIX,amazontrust.au
 DOMAIN-SUFFIX,amazontrust.biz
 DOMAIN-SUFFIX,amazontrust.blog
+DOMAIN-SUFFIX,amazontrust.black
 DOMAIN-SUFFIX,amazontrust.br
 DOMAIN-SUFFIX,amazontrust.ca
 DOMAIN-SUFFIX,amazontrust.cc
@@ -131,6 +133,7 @@ DOMAIN-SUFFIX,appsflyer.app
 DOMAIN-SUFFIX,appsflyer.au
 DOMAIN-SUFFIX,appsflyer.biz
 DOMAIN-SUFFIX,appsflyer.blog
+DOMAIN-SUFFIX,appsflyer.black
 DOMAIN-SUFFIX,appsflyer.br
 DOMAIN-SUFFIX,appsflyer.ca
 DOMAIN-SUFFIX,appsflyer.cc
@@ -194,6 +197,7 @@ DOMAIN-SUFFIX,appsflyersdk.app
 DOMAIN-SUFFIX,appsflyersdk.au
 DOMAIN-SUFFIX,appsflyersdk.biz
 DOMAIN-SUFFIX,appsflyersdk.blog
+DOMAIN-SUFFIX,appsflyersdk.black
 DOMAIN-SUFFIX,appsflyersdk.br
 DOMAIN-SUFFIX,appsflyersdk.ca
 DOMAIN-SUFFIX,appsflyersdk.cc
@@ -257,6 +261,7 @@ DOMAIN-SUFFIX,binance.app
 DOMAIN-SUFFIX,binance.au
 DOMAIN-SUFFIX,binance.biz
 DOMAIN-SUFFIX,binance.blog
+DOMAIN-SUFFIX,binance.black
 DOMAIN-SUFFIX,binance.br
 DOMAIN-SUFFIX,binance.ca
 DOMAIN-SUFFIX,binance.cc
@@ -320,6 +325,7 @@ DOMAIN-SUFFIX,binancecnt.app
 DOMAIN-SUFFIX,binancecnt.au
 DOMAIN-SUFFIX,binancecnt.biz
 DOMAIN-SUFFIX,binancecnt.blog
+DOMAIN-SUFFIX,binancecnt.black
 DOMAIN-SUFFIX,binancecnt.br
 DOMAIN-SUFFIX,binancecnt.ca
 DOMAIN-SUFFIX,binancecnt.cc
@@ -383,6 +389,7 @@ DOMAIN-SUFFIX,binancefuture.app
 DOMAIN-SUFFIX,binancefuture.au
 DOMAIN-SUFFIX,binancefuture.biz
 DOMAIN-SUFFIX,binancefuture.blog
+DOMAIN-SUFFIX,binancefuture.black
 DOMAIN-SUFFIX,binancefuture.br
 DOMAIN-SUFFIX,binancefuture.ca
 DOMAIN-SUFFIX,binancefuture.cc
@@ -446,6 +453,7 @@ DOMAIN-SUFFIX,binancezh.app
 DOMAIN-SUFFIX,binancezh.au
 DOMAIN-SUFFIX,binancezh.biz
 DOMAIN-SUFFIX,binancezh.blog
+DOMAIN-SUFFIX,binancezh.black
 DOMAIN-SUFFIX,binancezh.br
 DOMAIN-SUFFIX,binancezh.ca
 DOMAIN-SUFFIX,binancezh.cc
@@ -509,6 +517,7 @@ DOMAIN-SUFFIX,bmwweb.app
 DOMAIN-SUFFIX,bmwweb.au
 DOMAIN-SUFFIX,bmwweb.biz
 DOMAIN-SUFFIX,bmwweb.blog
+DOMAIN-SUFFIX,bmwweb.black
 DOMAIN-SUFFIX,bmwweb.br
 DOMAIN-SUFFIX,bmwweb.ca
 DOMAIN-SUFFIX,bmwweb.cc
@@ -572,6 +581,7 @@ DOMAIN-SUFFIX,bnappweb.app
 DOMAIN-SUFFIX,bnappweb.au
 DOMAIN-SUFFIX,bnappweb.biz
 DOMAIN-SUFFIX,bnappweb.blog
+DOMAIN-SUFFIX,bnappweb.black
 DOMAIN-SUFFIX,bnappweb.br
 DOMAIN-SUFFIX,bnappweb.ca
 DOMAIN-SUFFIX,bnappweb.cc
@@ -635,6 +645,7 @@ DOMAIN-SUFFIX,bnappzh.app
 DOMAIN-SUFFIX,bnappzh.au
 DOMAIN-SUFFIX,bnappzh.biz
 DOMAIN-SUFFIX,bnappzh.blog
+DOMAIN-SUFFIX,bnappzh.black
 DOMAIN-SUFFIX,bnappzh.br
 DOMAIN-SUFFIX,bnappzh.ca
 DOMAIN-SUFFIX,bnappzh.cc
@@ -698,6 +709,7 @@ DOMAIN-SUFFIX,bnbstatic.app
 DOMAIN-SUFFIX,bnbstatic.au
 DOMAIN-SUFFIX,bnbstatic.biz
 DOMAIN-SUFFIX,bnbstatic.blog
+DOMAIN-SUFFIX,bnbstatic.black
 DOMAIN-SUFFIX,bnbstatic.br
 DOMAIN-SUFFIX,bnbstatic.ca
 DOMAIN-SUFFIX,bnbstatic.cc
@@ -761,6 +773,7 @@ DOMAIN-SUFFIX,bnbzh.app
 DOMAIN-SUFFIX,bnbzh.au
 DOMAIN-SUFFIX,bnbzh.biz
 DOMAIN-SUFFIX,bnbzh.blog
+DOMAIN-SUFFIX,bnbzh.black
 DOMAIN-SUFFIX,bnbzh.br
 DOMAIN-SUFFIX,bnbzh.ca
 DOMAIN-SUFFIX,bnbzh.cc
@@ -824,6 +837,7 @@ DOMAIN-SUFFIX,bntrace.app
 DOMAIN-SUFFIX,bntrace.au
 DOMAIN-SUFFIX,bntrace.biz
 DOMAIN-SUFFIX,bntrace.blog
+DOMAIN-SUFFIX,bntrace.black
 DOMAIN-SUFFIX,bntrace.br
 DOMAIN-SUFFIX,bntrace.ca
 DOMAIN-SUFFIX,bntrace.cc
@@ -887,6 +901,7 @@ DOMAIN-SUFFIX,cloudfront.app
 DOMAIN-SUFFIX,cloudfront.au
 DOMAIN-SUFFIX,cloudfront.biz
 DOMAIN-SUFFIX,cloudfront.blog
+DOMAIN-SUFFIX,cloudfront.black
 DOMAIN-SUFFIX,cloudfront.br
 DOMAIN-SUFFIX,cloudfront.ca
 DOMAIN-SUFFIX,cloudfront.cc
@@ -950,6 +965,7 @@ DOMAIN-SUFFIX,devfdg.app
 DOMAIN-SUFFIX,devfdg.au
 DOMAIN-SUFFIX,devfdg.biz
 DOMAIN-SUFFIX,devfdg.blog
+DOMAIN-SUFFIX,devfdg.black
 DOMAIN-SUFFIX,devfdg.br
 DOMAIN-SUFFIX,devfdg.ca
 DOMAIN-SUFFIX,devfdg.cc
@@ -1013,6 +1029,7 @@ DOMAIN-SUFFIX,forter.app
 DOMAIN-SUFFIX,forter.au
 DOMAIN-SUFFIX,forter.biz
 DOMAIN-SUFFIX,forter.blog
+DOMAIN-SUFFIX,forter.black
 DOMAIN-SUFFIX,forter.br
 DOMAIN-SUFFIX,forter.ca
 DOMAIN-SUFFIX,forter.cc
@@ -1076,6 +1093,7 @@ DOMAIN-SUFFIX,marketwebb.app
 DOMAIN-SUFFIX,marketwebb.au
 DOMAIN-SUFFIX,marketwebb.biz
 DOMAIN-SUFFIX,marketwebb.blog
+DOMAIN-SUFFIX,marketwebb.black
 DOMAIN-SUFFIX,marketwebb.br
 DOMAIN-SUFFIX,marketwebb.ca
 DOMAIN-SUFFIX,marketwebb.cc
@@ -1139,6 +1157,7 @@ DOMAIN-SUFFIX,maxweb.app
 DOMAIN-SUFFIX,maxweb.au
 DOMAIN-SUFFIX,maxweb.biz
 DOMAIN-SUFFIX,maxweb.blog
+DOMAIN-SUFFIX,maxweb.black
 DOMAIN-SUFFIX,maxweb.br
 DOMAIN-SUFFIX,maxweb.ca
 DOMAIN-SUFFIX,maxweb.cc
@@ -1202,6 +1221,7 @@ DOMAIN-SUFFIX,myqcloud.app
 DOMAIN-SUFFIX,myqcloud.au
 DOMAIN-SUFFIX,myqcloud.biz
 DOMAIN-SUFFIX,myqcloud.blog
+DOMAIN-SUFFIX,myqcloud.black
 DOMAIN-SUFFIX,myqcloud.br
 DOMAIN-SUFFIX,myqcloud.ca
 DOMAIN-SUFFIX,myqcloud.cc
@@ -1265,6 +1285,7 @@ DOMAIN-SUFFIX,nftstatic.app
 DOMAIN-SUFFIX,nftstatic.au
 DOMAIN-SUFFIX,nftstatic.biz
 DOMAIN-SUFFIX,nftstatic.blog
+DOMAIN-SUFFIX,nftstatic.black
 DOMAIN-SUFFIX,nftstatic.br
 DOMAIN-SUFFIX,nftstatic.ca
 DOMAIN-SUFFIX,nftstatic.cc
@@ -1328,6 +1349,7 @@ DOMAIN-SUFFIX,saasexch.app
 DOMAIN-SUFFIX,saasexch.au
 DOMAIN-SUFFIX,saasexch.biz
 DOMAIN-SUFFIX,saasexch.blog
+DOMAIN-SUFFIX,saasexch.black
 DOMAIN-SUFFIX,saasexch.br
 DOMAIN-SUFFIX,saasexch.ca
 DOMAIN-SUFFIX,saasexch.cc
@@ -1391,6 +1413,7 @@ DOMAIN-SUFFIX,tlivesource.app
 DOMAIN-SUFFIX,tlivesource.au
 DOMAIN-SUFFIX,tlivesource.biz
 DOMAIN-SUFFIX,tlivesource.blog
+DOMAIN-SUFFIX,tlivesource.black
 DOMAIN-SUFFIX,tlivesource.br
 DOMAIN-SUFFIX,tlivesource.ca
 DOMAIN-SUFFIX,tlivesource.cc
@@ -1454,6 +1477,7 @@ DOMAIN-SUFFIX,tylhh.app
 DOMAIN-SUFFIX,tylhh.au
 DOMAIN-SUFFIX,tylhh.biz
 DOMAIN-SUFFIX,tylhh.blog
+DOMAIN-SUFFIX,tylhh.black
 DOMAIN-SUFFIX,tylhh.br
 DOMAIN-SUFFIX,tylhh.ca
 DOMAIN-SUFFIX,tylhh.cc
@@ -1517,6 +1541,7 @@ DOMAIN-SUFFIX,walletconnect.app
 DOMAIN-SUFFIX,walletconnect.au
 DOMAIN-SUFFIX,walletconnect.biz
 DOMAIN-SUFFIX,walletconnect.blog
+DOMAIN-SUFFIX,walletconnect.black
 DOMAIN-SUFFIX,walletconnect.br
 DOMAIN-SUFFIX,walletconnect.ca
 DOMAIN-SUFFIX,walletconnect.cc
@@ -1580,6 +1605,7 @@ DOMAIN-SUFFIX,yingwangtech.app
 DOMAIN-SUFFIX,yingwangtech.au
 DOMAIN-SUFFIX,yingwangtech.biz
 DOMAIN-SUFFIX,yingwangtech.blog
+DOMAIN-SUFFIX,yingwangtech.black
 DOMAIN-SUFFIX,yingwangtech.br
 DOMAIN-SUFFIX,yingwangtech.ca
 DOMAIN-SUFFIX,yingwangtech.cc
@@ -1643,6 +1669,7 @@ DOMAIN-SUFFIX,bscdnweb.app
 DOMAIN-SUFFIX,bscdnweb.au
 DOMAIN-SUFFIX,bscdnweb.biz
 DOMAIN-SUFFIX,bscdnweb.blog
+DOMAIN-SUFFIX,bscdnweb.black
 DOMAIN-SUFFIX,bscdnweb.br
 DOMAIN-SUFFIX,bscdnweb.ca
 DOMAIN-SUFFIX,bscdnweb.cc

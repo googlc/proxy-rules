@@ -5,6 +5,7 @@ host-suffix, amazonaws.app
 host-suffix, amazonaws.au
 host-suffix, amazonaws.biz
 host-suffix, amazonaws.blog
+host-suffix, amazonaws.black
 host-suffix, amazonaws.br
 host-suffix, amazonaws.ca
 host-suffix, amazonaws.cc
@@ -68,6 +69,7 @@ host-suffix, amazontrust.app
 host-suffix, amazontrust.au
 host-suffix, amazontrust.biz
 host-suffix, amazontrust.blog
+host-suffix, amazontrust.black
 host-suffix, amazontrust.br
 host-suffix, amazontrust.ca
 host-suffix, amazontrust.cc
@@ -131,6 +133,7 @@ host-suffix, appsflyer.app
 host-suffix, appsflyer.au
 host-suffix, appsflyer.biz
 host-suffix, appsflyer.blog
+host-suffix, appsflyer.black
 host-suffix, appsflyer.br
 host-suffix, appsflyer.ca
 host-suffix, appsflyer.cc
@@ -194,6 +197,7 @@ host-suffix, appsflyersdk.app
 host-suffix, appsflyersdk.au
 host-suffix, appsflyersdk.biz
 host-suffix, appsflyersdk.blog
+host-suffix, appsflyersdk.black
 host-suffix, appsflyersdk.br
 host-suffix, appsflyersdk.ca
 host-suffix, appsflyersdk.cc
@@ -257,6 +261,7 @@ host-suffix, binance.app
 host-suffix, binance.au
 host-suffix, binance.biz
 host-suffix, binance.blog
+host-suffix, binance.black
 host-suffix, binance.br
 host-suffix, binance.ca
 host-suffix, binance.cc
@@ -320,6 +325,7 @@ host-suffix, binancecnt.app
 host-suffix, binancecnt.au
 host-suffix, binancecnt.biz
 host-suffix, binancecnt.blog
+host-suffix, binancecnt.black
 host-suffix, binancecnt.br
 host-suffix, binancecnt.ca
 host-suffix, binancecnt.cc
@@ -383,6 +389,7 @@ host-suffix, binancefuture.app
 host-suffix, binancefuture.au
 host-suffix, binancefuture.biz
 host-suffix, binancefuture.blog
+host-suffix, binancefuture.black
 host-suffix, binancefuture.br
 host-suffix, binancefuture.ca
 host-suffix, binancefuture.cc
@@ -446,6 +453,7 @@ host-suffix, binancezh.app
 host-suffix, binancezh.au
 host-suffix, binancezh.biz
 host-suffix, binancezh.blog
+host-suffix, binancezh.black
 host-suffix, binancezh.br
 host-suffix, binancezh.ca
 host-suffix, binancezh.cc
@@ -509,6 +517,7 @@ host-suffix, bmwweb.app
 host-suffix, bmwweb.au
 host-suffix, bmwweb.biz
 host-suffix, bmwweb.blog
+host-suffix, bmwweb.black
 host-suffix, bmwweb.br
 host-suffix, bmwweb.ca
 host-suffix, bmwweb.cc
@@ -572,6 +581,7 @@ host-suffix, bnappweb.app
 host-suffix, bnappweb.au
 host-suffix, bnappweb.biz
 host-suffix, bnappweb.blog
+host-suffix, bnappweb.black
 host-suffix, bnappweb.br
 host-suffix, bnappweb.ca
 host-suffix, bnappweb.cc
@@ -635,6 +645,7 @@ host-suffix, bnappzh.app
 host-suffix, bnappzh.au
 host-suffix, bnappzh.biz
 host-suffix, bnappzh.blog
+host-suffix, bnappzh.black
 host-suffix, bnappzh.br
 host-suffix, bnappzh.ca
 host-suffix, bnappzh.cc
@@ -698,6 +709,7 @@ host-suffix, bnbstatic.app
 host-suffix, bnbstatic.au
 host-suffix, bnbstatic.biz
 host-suffix, bnbstatic.blog
+host-suffix, bnbstatic.black
 host-suffix, bnbstatic.br
 host-suffix, bnbstatic.ca
 host-suffix, bnbstatic.cc
@@ -761,6 +773,7 @@ host-suffix, bnbzh.app
 host-suffix, bnbzh.au
 host-suffix, bnbzh.biz
 host-suffix, bnbzh.blog
+host-suffix, bnbzh.black
 host-suffix, bnbzh.br
 host-suffix, bnbzh.ca
 host-suffix, bnbzh.cc
@@ -824,6 +837,7 @@ host-suffix, bntrace.app
 host-suffix, bntrace.au
 host-suffix, bntrace.biz
 host-suffix, bntrace.blog
+host-suffix, bntrace.black
 host-suffix, bntrace.br
 host-suffix, bntrace.ca
 host-suffix, bntrace.cc
@@ -887,6 +901,7 @@ host-suffix, cloudfront.app
 host-suffix, cloudfront.au
 host-suffix, cloudfront.biz
 host-suffix, cloudfront.blog
+host-suffix, cloudfront.black
 host-suffix, cloudfront.br
 host-suffix, cloudfront.ca
 host-suffix, cloudfront.cc
@@ -950,6 +965,7 @@ host-suffix, devfdg.app
 host-suffix, devfdg.au
 host-suffix, devfdg.biz
 host-suffix, devfdg.blog
+host-suffix, devfdg.black
 host-suffix, devfdg.br
 host-suffix, devfdg.ca
 host-suffix, devfdg.cc
@@ -1013,6 +1029,7 @@ host-suffix, forter.app
 host-suffix, forter.au
 host-suffix, forter.biz
 host-suffix, forter.blog
+host-suffix, forter.black
 host-suffix, forter.br
 host-suffix, forter.ca
 host-suffix, forter.cc
@@ -1076,6 +1093,7 @@ host-suffix, marketwebb.app
 host-suffix, marketwebb.au
 host-suffix, marketwebb.biz
 host-suffix, marketwebb.blog
+host-suffix, marketwebb.black
 host-suffix, marketwebb.br
 host-suffix, marketwebb.ca
 host-suffix, marketwebb.cc
@@ -1139,6 +1157,7 @@ host-suffix, maxweb.app
 host-suffix, maxweb.au
 host-suffix, maxweb.biz
 host-suffix, maxweb.blog
+host-suffix, maxweb.black
 host-suffix, maxweb.br
 host-suffix, maxweb.ca
 host-suffix, maxweb.cc
@@ -1202,6 +1221,7 @@ host-suffix, myqcloud.app
 host-suffix, myqcloud.au
 host-suffix, myqcloud.biz
 host-suffix, myqcloud.blog
+host-suffix, myqcloud.black
 host-suffix, myqcloud.br
 host-suffix, myqcloud.ca
 host-suffix, myqcloud.cc
@@ -1265,6 +1285,7 @@ host-suffix, nftstatic.app
 host-suffix, nftstatic.au
 host-suffix, nftstatic.biz
 host-suffix, nftstatic.blog
+host-suffix, nftstatic.black
 host-suffix, nftstatic.br
 host-suffix, nftstatic.ca
 host-suffix, nftstatic.cc
@@ -1328,6 +1349,7 @@ host-suffix, saasexch.app
 host-suffix, saasexch.au
 host-suffix, saasexch.biz
 host-suffix, saasexch.blog
+host-suffix, saasexch.black
 host-suffix, saasexch.br
 host-suffix, saasexch.ca
 host-suffix, saasexch.cc
@@ -1391,6 +1413,7 @@ host-suffix, tlivesource.app
 host-suffix, tlivesource.au
 host-suffix, tlivesource.biz
 host-suffix, tlivesource.blog
+host-suffix, tlivesource.black
 host-suffix, tlivesource.br
 host-suffix, tlivesource.ca
 host-suffix, tlivesource.cc
@@ -1454,6 +1477,7 @@ host-suffix, tylhh.app
 host-suffix, tylhh.au
 host-suffix, tylhh.biz
 host-suffix, tylhh.blog
+host-suffix, tylhh.black
 host-suffix, tylhh.br
 host-suffix, tylhh.ca
 host-suffix, tylhh.cc
@@ -1517,6 +1541,7 @@ host-suffix, walletconnect.app
 host-suffix, walletconnect.au
 host-suffix, walletconnect.biz
 host-suffix, walletconnect.blog
+host-suffix, walletconnect.black
 host-suffix, walletconnect.br
 host-suffix, walletconnect.ca
 host-suffix, walletconnect.cc
@@ -1580,6 +1605,7 @@ host-suffix, yingwangtech.app
 host-suffix, yingwangtech.au
 host-suffix, yingwangtech.biz
 host-suffix, yingwangtech.blog
+host-suffix, yingwangtech.black
 host-suffix, yingwangtech.br
 host-suffix, yingwangtech.ca
 host-suffix, yingwangtech.cc
@@ -1643,6 +1669,7 @@ host-suffix, bscdnweb.app
 host-suffix, bscdnweb.au
 host-suffix, bscdnweb.biz
 host-suffix, bscdnweb.blog
+host-suffix, bscdnweb.black
 host-suffix, bscdnweb.br
 host-suffix, bscdnweb.ca
 host-suffix, bscdnweb.cc

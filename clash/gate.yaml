@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,adjust.app
 DOMAIN-SUFFIX,adjust.au
 DOMAIN-SUFFIX,adjust.biz
 DOMAIN-SUFFIX,adjust.blog
+DOMAIN-SUFFIX,adjust.black
 DOMAIN-SUFFIX,adjust.br
 DOMAIN-SUFFIX,adjust.ca
 DOMAIN-SUFFIX,adjust.cc
@@ -68,6 +69,7 @@ DOMAIN-SUFFIX,bxjddjt.app
 DOMAIN-SUFFIX,bxjddjt.au
 DOMAIN-SUFFIX,bxjddjt.biz
 DOMAIN-SUFFIX,bxjddjt.blog
+DOMAIN-SUFFIX,bxjddjt.black
 DOMAIN-SUFFIX,bxjddjt.br
 DOMAIN-SUFFIX,bxjddjt.ca
 DOMAIN-SUFFIX,bxjddjt.cc
@@ -131,6 +133,7 @@ DOMAIN-SUFFIX,csrqoa.app
 DOMAIN-SUFFIX,csrqoa.au
 DOMAIN-SUFFIX,csrqoa.biz
 DOMAIN-SUFFIX,csrqoa.blog
+DOMAIN-SUFFIX,csrqoa.black
 DOMAIN-SUFFIX,csrqoa.br
 DOMAIN-SUFFIX,csrqoa.ca
 DOMAIN-SUFFIX,csrqoa.cc
@@ -194,6 +197,7 @@ DOMAIN-SUFFIX,didhelper.app
 DOMAIN-SUFFIX,didhelper.au
 DOMAIN-SUFFIX,didhelper.biz
 DOMAIN-SUFFIX,didhelper.blog
+DOMAIN-SUFFIX,didhelper.black
 DOMAIN-SUFFIX,didhelper.br
 DOMAIN-SUFFIX,didhelper.ca
 DOMAIN-SUFFIX,didhelper.cc
@@ -257,6 +261,7 @@ DOMAIN-SUFFIX,freestun.app
 DOMAIN-SUFFIX,freestun.au
 DOMAIN-SUFFIX,freestun.biz
 DOMAIN-SUFFIX,freestun.blog
+DOMAIN-SUFFIX,freestun.black
 DOMAIN-SUFFIX,freestun.br
 DOMAIN-SUFFIX,freestun.ca
 DOMAIN-SUFFIX,freestun.cc
@@ -320,6 +325,7 @@ DOMAIN-SUFFIX,freshmarkethome.app
 DOMAIN-SUFFIX,freshmarkethome.au
 DOMAIN-SUFFIX,freshmarkethome.biz
 DOMAIN-SUFFIX,freshmarkethome.blog
+DOMAIN-SUFFIX,freshmarkethome.black
 DOMAIN-SUFFIX,freshmarkethome.br
 DOMAIN-SUFFIX,freshmarkethome.ca
 DOMAIN-SUFFIX,freshmarkethome.cc
@@ -383,6 +389,7 @@ DOMAIN-SUFFIX,gate.app
 DOMAIN-SUFFIX,gate.au
 DOMAIN-SUFFIX,gate.biz
 DOMAIN-SUFFIX,gate.blog
+DOMAIN-SUFFIX,gate.black
 DOMAIN-SUFFIX,gate.br
 DOMAIN-SUFFIX,gate.ca
 DOMAIN-SUFFIX,gate.cc
@@ -446,6 +453,7 @@ DOMAIN-SUFFIX,gate-link.app
 DOMAIN-SUFFIX,gate-link.au
 DOMAIN-SUFFIX,gate-link.biz
 DOMAIN-SUFFIX,gate-link.blog
+DOMAIN-SUFFIX,gate-link.black
 DOMAIN-SUFFIX,gate-link.br
 DOMAIN-SUFFIX,gate-link.ca
 DOMAIN-SUFFIX,gate-link.cc
@@ -509,6 +517,7 @@ DOMAIN-SUFFIX,gatedata.app
 DOMAIN-SUFFIX,gatedata.au
 DOMAIN-SUFFIX,gatedata.biz
 DOMAIN-SUFFIX,gatedata.blog
+DOMAIN-SUFFIX,gatedata.black
 DOMAIN-SUFFIX,gatedata.br
 DOMAIN-SUFFIX,gatedata.ca
 DOMAIN-SUFFIX,gatedata.cc
@@ -572,6 +581,7 @@ DOMAIN-SUFFIX,gatedataimg.app
 DOMAIN-SUFFIX,gatedataimg.au
 DOMAIN-SUFFIX,gatedataimg.biz
 DOMAIN-SUFFIX,gatedataimg.blog
+DOMAIN-SUFFIX,gatedataimg.black
 DOMAIN-SUFFIX,gatedataimg.br
 DOMAIN-SUFFIX,gatedataimg.ca
 DOMAIN-SUFFIX,gatedataimg.cc
@@ -635,6 +645,7 @@ DOMAIN-SUFFIX,gateex.app
 DOMAIN-SUFFIX,gateex.au
 DOMAIN-SUFFIX,gateex.biz
 DOMAIN-SUFFIX,gateex.blog
+DOMAIN-SUFFIX,gateex.black
 DOMAIN-SUFFIX,gateex.br
 DOMAIN-SUFFIX,gateex.ca
 DOMAIN-SUFFIX,gateex.cc
@@ -698,6 +709,7 @@ DOMAIN-SUFFIX,gateimage.app
 DOMAIN-SUFFIX,gateimage.au
 DOMAIN-SUFFIX,gateimage.biz
 DOMAIN-SUFFIX,gateimage.blog
+DOMAIN-SUFFIX,gateimage.black
 DOMAIN-SUFFIX,gateimage.br
 DOMAIN-SUFFIX,gateimage.ca
 DOMAIN-SUFFIX,gateimage.cc
@@ -761,6 +773,7 @@ DOMAIN-SUFFIX,gateio.app
 DOMAIN-SUFFIX,gateio.au
 DOMAIN-SUFFIX,gateio.biz
 DOMAIN-SUFFIX,gateio.blog
+DOMAIN-SUFFIX,gateio.black
 DOMAIN-SUFFIX,gateio.br
 DOMAIN-SUFFIX,gateio.ca
 DOMAIN-SUFFIX,gateio.cc
@@ -824,6 +837,7 @@ DOMAIN-SUFFIX,gatesite.app
 DOMAIN-SUFFIX,gatesite.au
 DOMAIN-SUFFIX,gatesite.biz
 DOMAIN-SUFFIX,gatesite.blog
+DOMAIN-SUFFIX,gatesite.black
 DOMAIN-SUFFIX,gatesite.br
 DOMAIN-SUFFIX,gatesite.ca
 DOMAIN-SUFFIX,gatesite.cc
@@ -887,6 +901,7 @@ DOMAIN-SUFFIX,gatesites.app
 DOMAIN-SUFFIX,gatesites.au
 DOMAIN-SUFFIX,gatesites.biz
 DOMAIN-SUFFIX,gatesites.blog
+DOMAIN-SUFFIX,gatesites.black
 DOMAIN-SUFFIX,gatesites.br
 DOMAIN-SUFFIX,gatesites.ca
 DOMAIN-SUFFIX,gatesites.cc
@@ -950,6 +965,7 @@ DOMAIN-SUFFIX,googletagmanager.app
 DOMAIN-SUFFIX,googletagmanager.au
 DOMAIN-SUFFIX,googletagmanager.biz
 DOMAIN-SUFFIX,googletagmanager.blog
+DOMAIN-SUFFIX,googletagmanager.black
 DOMAIN-SUFFIX,googletagmanager.br
 DOMAIN-SUFFIX,googletagmanager.ca
 DOMAIN-SUFFIX,googletagmanager.cc
@@ -1013,6 +1029,7 @@ DOMAIN-SUFFIX,gposts.app
 DOMAIN-SUFFIX,gposts.au
 DOMAIN-SUFFIX,gposts.biz
 DOMAIN-SUFFIX,gposts.blog
+DOMAIN-SUFFIX,gposts.black
 DOMAIN-SUFFIX,gposts.br
 DOMAIN-SUFFIX,gposts.ca
 DOMAIN-SUFFIX,gposts.cc
@@ -1076,6 +1093,7 @@ DOMAIN-SUFFIX,gt-io.app
 DOMAIN-SUFFIX,gt-io.au
 DOMAIN-SUFFIX,gt-io.biz
 DOMAIN-SUFFIX,gt-io.blog
+DOMAIN-SUFFIX,gt-io.black
 DOMAIN-SUFFIX,gt-io.br
 DOMAIN-SUFFIX,gt-io.ca
 DOMAIN-SUFFIX,gt-io.cc
@@ -1139,6 +1157,7 @@ DOMAIN-SUFFIX,ldd678.app
 DOMAIN-SUFFIX,ldd678.au
 DOMAIN-SUFFIX,ldd678.biz
 DOMAIN-SUFFIX,ldd678.blog
+DOMAIN-SUFFIX,ldd678.black
 DOMAIN-SUFFIX,ldd678.br
 DOMAIN-SUFFIX,ldd678.ca
 DOMAIN-SUFFIX,ldd678.cc
@@ -1202,6 +1221,7 @@ DOMAIN-SUFFIX,mbm06.app
 DOMAIN-SUFFIX,mbm06.au
 DOMAIN-SUFFIX,mbm06.biz
 DOMAIN-SUFFIX,mbm06.blog
+DOMAIN-SUFFIX,mbm06.black
 DOMAIN-SUFFIX,mbm06.br
 DOMAIN-SUFFIX,mbm06.ca
 DOMAIN-SUFFIX,mbm06.cc
@@ -1265,6 +1285,7 @@ DOMAIN-SUFFIX,panpno.app
 DOMAIN-SUFFIX,panpno.au
 DOMAIN-SUFFIX,panpno.biz
 DOMAIN-SUFFIX,panpno.blog
+DOMAIN-SUFFIX,panpno.black
 DOMAIN-SUFFIX,panpno.br
 DOMAIN-SUFFIX,panpno.ca
 DOMAIN-SUFFIX,panpno.cc
@@ -1328,6 +1349,7 @@ DOMAIN-SUFFIX,pushcloud.app
 DOMAIN-SUFFIX,pushcloud.au
 DOMAIN-SUFFIX,pushcloud.biz
 DOMAIN-SUFFIX,pushcloud.blog
+DOMAIN-SUFFIX,pushcloud.black
 DOMAIN-SUFFIX,pushcloud.br
 DOMAIN-SUFFIX,pushcloud.ca
 DOMAIN-SUFFIX,pushcloud.cc
@@ -1391,6 +1413,7 @@ DOMAIN-SUFFIX,smartappnet.app
 DOMAIN-SUFFIX,smartappnet.au
 DOMAIN-SUFFIX,smartappnet.biz
 DOMAIN-SUFFIX,smartappnet.blog
+DOMAIN-SUFFIX,smartappnet.black
 DOMAIN-SUFFIX,smartappnet.br
 DOMAIN-SUFFIX,smartappnet.ca
 DOMAIN-SUFFIX,smartappnet.cc
@@ -1454,6 +1477,7 @@ DOMAIN-SUFFIX,staticimgs.app
 DOMAIN-SUFFIX,staticimgs.au
 DOMAIN-SUFFIX,staticimgs.biz
 DOMAIN-SUFFIX,staticimgs.blog
+DOMAIN-SUFFIX,staticimgs.black
 DOMAIN-SUFFIX,staticimgs.br
 DOMAIN-SUFFIX,staticimgs.ca
 DOMAIN-SUFFIX,staticimgs.cc
@@ -1517,6 +1541,7 @@ DOMAIN-SUFFIX,studiotv.app
 DOMAIN-SUFFIX,studiotv.au
 DOMAIN-SUFFIX,studiotv.biz
 DOMAIN-SUFFIX,studiotv.blog
+DOMAIN-SUFFIX,studiotv.black
 DOMAIN-SUFFIX,studiotv.br
 DOMAIN-SUFFIX,studiotv.ca
 DOMAIN-SUFFIX,studiotv.cc
@@ -1580,6 +1605,7 @@ DOMAIN-SUFFIX,stunprotocol.app
 DOMAIN-SUFFIX,stunprotocol.au
 DOMAIN-SUFFIX,stunprotocol.biz
 DOMAIN-SUFFIX,stunprotocol.blog
+DOMAIN-SUFFIX,stunprotocol.black
 DOMAIN-SUFFIX,stunprotocol.br
 DOMAIN-SUFFIX,stunprotocol.ca
 DOMAIN-SUFFIX,stunprotocol.cc
@@ -1643,6 +1669,7 @@ DOMAIN-SUFFIX,tsarvgh.app
 DOMAIN-SUFFIX,tsarvgh.au
 DOMAIN-SUFFIX,tsarvgh.biz
 DOMAIN-SUFFIX,tsarvgh.blog
+DOMAIN-SUFFIX,tsarvgh.black
 DOMAIN-SUFFIX,tsarvgh.br
 DOMAIN-SUFFIX,tsarvgh.ca
 DOMAIN-SUFFIX,tsarvgh.cc
@@ -1706,6 +1733,7 @@ DOMAIN-SUFFIX,volccdn.app
 DOMAIN-SUFFIX,volccdn.au
 DOMAIN-SUFFIX,volccdn.biz
 DOMAIN-SUFFIX,volccdn.blog
+DOMAIN-SUFFIX,volccdn.black
 DOMAIN-SUFFIX,volccdn.br
 DOMAIN-SUFFIX,volccdn.ca
 DOMAIN-SUFFIX,volccdn.cc
@@ -1769,6 +1797,7 @@ DOMAIN-SUFFIX,volces.app
 DOMAIN-SUFFIX,volces.au
 DOMAIN-SUFFIX,volces.biz
 DOMAIN-SUFFIX,volces.blog
+DOMAIN-SUFFIX,volces.black
 DOMAIN-SUFFIX,volces.br
 DOMAIN-SUFFIX,volces.ca
 DOMAIN-SUFFIX,volces.cc
@@ -1832,6 +1861,7 @@ DOMAIN-SUFFIX,zudanje.app
 DOMAIN-SUFFIX,zudanje.au
 DOMAIN-SUFFIX,zudanje.biz
 DOMAIN-SUFFIX,zudanje.blog
+DOMAIN-SUFFIX,zudanje.black
 DOMAIN-SUFFIX,zudanje.br
 DOMAIN-SUFFIX,zudanje.ca
 DOMAIN-SUFFIX,zudanje.cc
@@ -1895,6 +1925,7 @@ DOMAIN-SUFFIX,zysh.app
 DOMAIN-SUFFIX,zysh.au
 DOMAIN-SUFFIX,zysh.biz
 DOMAIN-SUFFIX,zysh.blog
+DOMAIN-SUFFIX,zysh.black
 DOMAIN-SUFFIX,zysh.br
 DOMAIN-SUFFIX,zysh.ca
 DOMAIN-SUFFIX,zysh.cc
@@ -1958,6 +1989,7 @@ DOMAIN-SUFFIX,bnw3w.app
 DOMAIN-SUFFIX,bnw3w.au
 DOMAIN-SUFFIX,bnw3w.biz
 DOMAIN-SUFFIX,bnw3w.blog
+DOMAIN-SUFFIX,bnw3w.black
 DOMAIN-SUFFIX,bnw3w.br
 DOMAIN-SUFFIX,bnw3w.ca
 DOMAIN-SUFFIX,bnw3w.cc
@@ -2021,6 +2053,7 @@ DOMAIN-SUFFIX,wsbridge.app
 DOMAIN-SUFFIX,wsbridge.au
 DOMAIN-SUFFIX,wsbridge.biz
 DOMAIN-SUFFIX,wsbridge.blog
+DOMAIN-SUFFIX,wsbridge.black
 DOMAIN-SUFFIX,wsbridge.br
 DOMAIN-SUFFIX,wsbridge.ca
 DOMAIN-SUFFIX,wsbridge.cc
