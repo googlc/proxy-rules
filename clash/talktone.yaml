@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN-SUFFIX,inner-active.mobi,美国
+  - DOMAIN-SUFFIX,mobilefuse.com,美国
+  - DOMAIN-SUFFIX,inmobi.com,美国
+  - DOMAIN-SUFFIX,crashlytics.com,美国
+  - DOMAIN-SUFFIX,talkatone.com,美国
+  - DOMAIN-SUFFIX,kochava.com,美国
+  - DOMAIN-SUFFIX,cohere.com,美国
+  - DOMAIN-SUFFIX,agkn.com,美国
+  - DOMAIN-SUFFIX,tktn.at,美国
+  - DOMAIN-SUFFIX,tenor.com,美国
+  - DOMAIN-SUFFIX,tktn.be,美国
+  - IP-CIDR,50.117.27.0/24,美国
+  - IP-CIDR,69.46.75.0/24,美国
+  - IP-CIDR,205.164.56.0/24,美国
+  - IP-CIDR,63.251.124.0/24,美国
